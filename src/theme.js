@@ -6,7 +6,12 @@ const colors = {
   red: "#e84118",
   blue: "#3679fe",
 };
+
 export const theme = {
   background: colors.white,
   text: colors.black,
+  imageBackground: colors.grey_0,
+  label: colors.grey_1,
+  inputPlaceholder: colors.grey_1,
+  inputBorder: colors.grey_1,
 };
